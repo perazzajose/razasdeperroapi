@@ -1,0 +1,30 @@
+{
+    "razas_de_perro": [
+      {
+        "id": 1,
+        "nombre": "Labrador Retriever",
+        "descripcion": "El Labrador Retriever es una raza amigable, inteligente y enérgica. Son conocidos por ser excelentes compañeros y perros de trabajo."
+      },
+      {
+        "id": 2,
+        "nombre": "Bulldog Francés",
+        "descripcion": "El Bulldog Francés es una raza pequeña y cariñosa. Son conocidos por su aspecto único y su personalidad juguetona."
+      },
+      {
+        "id": 3,
+        "nombre": "Pastor Alemán",
+        "descripcion": "El Pastor Alemán es una raza inteligente y leal, conocida por su capacidad para el trabajo y la protección."
+      },
+      {
+        "id": 4,
+        "nombre": "Golden Retriever",
+        "descripcion": "El Golden Retriever es una raza amigable, inteligente y cariñosa. Son populares como perros de familia."
+      },
+      {
+        "id": 5,
+        "nombre": "Bulldog Inglés",
+        "descripcion": "El Bulldog Inglés es una raza tranquila y amigable, conocida por su apariencia arrugada y su naturaleza relajada."
+      }
+    ]
+  }
+  
